@@ -1,8 +1,6 @@
-/* Microsoft SQL Server Integration Services Script Component
- 
-*  Write scripts using Microsoft Visual C# 2008.
- 
-*  ScriptMain is the entry point class of the script.*/
+/* BadFile.cs
+ * SSIS Script Loader by Karan Misra (kid0m4n)
+ */
 
 using System;
 using System.Data;
